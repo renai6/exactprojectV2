@@ -31,7 +31,7 @@ module.exports = {
   },
   resolve:{
     alias: {
-      vue$: path.resolve(__dirname, 'node_modules/vue/dist/vue.esm.js'),
+      Store: path.resolve(__dirname, 'src/js/store'),
       Components:path.resolve(__dirname,'src/js/components/'), // 'vue/dist/vue.common.js' for webpack 1
     },
     extensions: [ '.js', '.vue', '.json' ],
