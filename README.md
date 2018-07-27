@@ -1,5 +1,5 @@
-###################
-  CodeIgniter-Vue
-###################
+
+# CodeIgniter-Vue
+
 
 A CodeIgniter and VueJS boiler plate.
