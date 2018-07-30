@@ -1,6 +1,6 @@
 
-# CodeIgniter-Vue
+# Exact Project 
 
-A CodeIgniter and VueJS boiler plate.
+Capacity planner
 
 
